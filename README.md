@@ -4,6 +4,10 @@ Custom VIAL layout for the Silakka54 54-key keyboard by Leon Trestman, designed 
 
 ![Silakka54 Layout](layout.svg)
 
+## Download
+Get the latest `.vil` layout from the official release:  
+[Download layout.vil](https://github.com/LeonTrestman/silakka54-layout/releases/latest)
+
 ## Layers
 
 - **DEF:** Standard typing with dual-function keys (`Esc+Ctrl`, `LGui/Space → SYM`, `Bksp → NAV`)
